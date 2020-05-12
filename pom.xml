@@ -32,6 +32,14 @@
         <module>Chapter 3/mybatis-generator-demo</module>
         <module>Chapter 3/mybatis-pagehelper-demo</module>
         <module>Chapter 3/springbucks</module>
+        <module>Chapter 4/cache-demo</module>
+        <module>Chapter 4/cache-with-redis-demo</module>
+        <module>Chapter 4/jedis-demo</module>
+        <module>Chapter 4/mongo-demo</module>
+        <module>Chapter 4/mongo-repository-demo</module>
+        <module>Chapter 4/redis-demo</module>
+        <module>Chapter 4/redis-repository-demo</module>
+
     </modules>
 
     <build>
